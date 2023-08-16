@@ -1,4 +1,7 @@
 # Angular Homes App
+
+In This project, I am building an application to rewind and strengthen the basics of angular which I have learned. 
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
